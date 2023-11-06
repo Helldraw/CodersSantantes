@@ -1,6 +1,6 @@
 # Curso Digital: Git
 ## gravando mudanças do repositorio
-* comandos git push
+* comandos git
 * git push
 * git pull
 * git fetch
