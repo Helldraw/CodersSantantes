@@ -3,3 +3,4 @@
 * comandos git push
 * git push
 * git pull
+* git fetch
